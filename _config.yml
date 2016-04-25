@@ -1,5 +1,4 @@
 layout_spectrum: 1
-typography_spectrum: 0.8397601
 color:
   saturation: 0.698711
   brandStrength: 0.480666
@@ -11,4 +10,5 @@ color:
     - '#220405'
     - '#770E12'
   rhythmicContrast: 0.7223416
+typography_spectrum: 0.6557465
 name: KJC photography
