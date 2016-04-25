@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KJC photography]]></title>
         <description><![CDATA[KJC photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kjc-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 19:22:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 19:41:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kjc-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our first BTS of a cosplay shoot with the PRISM cosplay group</p>]]></description>
+            <link>https://thegrid.ai/kjc-photography/our-first-bts-of-a-cosplay-shoot-with-the-prism-cosplay-grou/index.html</link>
+            <guid isPermaLink="false">15c23de3-5c0f-47ff-84ee-1e511bde68e8</guid>
+            <pubDate>Mon, 25 Apr 2016 19:40:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Asuna cosplay]]></title>
             <description><![CDATA[<p>2nd photo that we are posting from our book </p>]]></description>
-            <link>undefinedasuna-cosplay/index.html</link>
+            <link>https://thegrid.ai/kjc-photography/asuna-cosplay/index.html</link>
             <guid isPermaLink="false">b28b91af-c806-460e-a479-34e4aa67066b</guid>
             <pubDate>Mon, 25 Apr 2016 19:22:07 GMT</pubDate>
         </item>
