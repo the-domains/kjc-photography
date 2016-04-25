@@ -10,9 +10,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.6557465
 color:
   saturation: 0.8748657
-  brandStrength: 0.8061225
+  brandStrength: 0
   lightness: 0.8576799
   brandColors:
     - '#000000'
@@ -21,6 +22,5 @@ color:
     - '#220405'
     - '#770E12'
   rhythmicContrast: 0.7223416
-typography_spectrum: 0.6557465
 layout_spectrum: 0.6385607
 name: KJC photography
