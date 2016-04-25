@@ -1,8 +1,19 @@
-layout_spectrum: 0.5386681
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6557465
 color:
   saturation: 0.8748657
-  brandStrength: 0.005907593
+  brandStrength: 0.8061225
   lightness: 0.8576799
   brandColors:
     - '#000000'
@@ -11,4 +22,5 @@ color:
     - '#220405'
     - '#770E12'
   rhythmicContrast: 0.7223416
+layout_spectrum: 0.5386681
 name: KJC photography
