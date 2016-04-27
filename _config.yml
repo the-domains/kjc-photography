@@ -1,40 +1,40 @@
-name: KJC photography
 favicon: null
-layout_spectrum: 0.6385607
-typography_spectrum: 0.6557465
+name: KJC photography
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#ED1C24'
     - '#C4171E'
     - '#220405'
     - '#770E12'
-  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.6557465
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
